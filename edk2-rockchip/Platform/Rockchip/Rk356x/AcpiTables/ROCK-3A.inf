@@ -17,7 +17,7 @@
   VERSION_STRING                 = 1.0
 
 [Sources]
-  ROC-RK3568-PC/Dsdt.asl
+  ROCK-3A/Dsdt.asl
   Dbg2.aslc
   Fadt.aslc
   Gtdt.aslc
